@@ -22,6 +22,9 @@ import lecho.lib.hellocharts.util.ChartUtils;
 import lecho.lib.hellocharts.view.Chart;
 import lecho.lib.hellocharts.view.PieChartView;
 
+/**
+ * 测试通过
+ */
 public class PieChartActivity extends ActionBarActivity {
 
 	@Override
